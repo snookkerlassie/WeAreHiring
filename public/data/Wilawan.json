@@ -1,0 +1,31 @@
+{
+  "name": "Wilawan", 
+  "github_url": "https://github.com/snookkerlassie", 
+  "need_apply": "true", 
+  "job": {
+    "position": "System analyst", 
+    "type": "FULL_TIME", 
+    "description": "วิเคราะห์ระบบงานถนัด Graphic Design ก็ทำได้ Coding ก็พอเข้าใจ อะไรที่ทำได้ก็จะทำ"
+  }, 
+  "skill": {
+    "programming_language": [
+      "่HTML", 
+      "PHP",
+      "MySQL"
+    ], 
+    "tools": [
+      "Photoshop", 
+      "llustrator",
+      "MySQL"
+      "Android studio"
+    ]
+  }, 
+  "payload": {
+    "resume": "https://www.dropbox.com/s/obq21vhrbvqoa2e/Wilawan_Resume.pdf?dl=0, 
+   "contact_me": [
+        "sn.lassie@gmail.com", 
+        "Tel : 0861172945"
+      ]
+    
+  }
+}
